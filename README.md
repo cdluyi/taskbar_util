@@ -1,1 +1,8 @@
 # taskbar_util
+
+我想借此机会对TranslucentTB项目的作者和贡献者表示深深的感谢。你们的工作不仅展示了技术的力量，而且带来了实用而美观的解决方案。TranslucentTB项目为Windows任务栏的美化提供了创新的方法，极大地丰富了用户的桌面体验。
+
+通过使用TranslucentTB，我得以深入了解到定制化桌面环境的可能性，这对我的项目启发颇多。你们的努力和创造力是开源社区最宝贵的财富之一，我在此向你们表示最诚挚的感谢和敬意。
+
+请访问TranslucentTB项目以了解更多信息，并探索这个令人赞叹的工具。
+https://github.com/TranslucentTB/TranslucentTB
